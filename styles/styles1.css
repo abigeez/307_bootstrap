@@ -1,3 +1,5 @@
+
+
 .col-md-3{
     border:rgb(74, 74, 74) 1px solid;
     /* height:300px; */
@@ -5,10 +7,11 @@
     margin:6px;
 }
 
-#h4user{
+#h4user, #h4_activ{
     text-align: center;
     font-family:Georgia, 'Times New Roman', Times, serif;
-    color:grey;
+    color:black;
+    
 }
 #usericonimg{
     border:black solid 1px;
@@ -16,6 +19,8 @@
     padding:3px;
 }
 
+
 .d-grid{
 padding:3px;
 }
+
