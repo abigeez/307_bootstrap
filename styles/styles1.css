@@ -1,0 +1,21 @@
+.col-md-3{
+    border:rgb(74, 74, 74) 1px solid;
+    /* height:300px; */
+    padding:6px;
+    margin:6px;
+}
+
+#h4user{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:grey;
+}
+#usericonimg{
+    border:black solid 1px;
+    margin: 6px;
+    padding:3px;
+}
+
+.d-grid{
+padding:3px;
+}
